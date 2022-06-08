@@ -1,0 +1,17 @@
+C:\Users\cogdotnet32\source\repos\FlightBooking\APIGateway\bin\Debug\netcoreapp2.1\configuration.json
+C:\Users\cogdotnet32\source\repos\FlightBooking\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.deps.json
+C:\Users\cogdotnet32\source\repos\FlightBooking\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.runtimeconfig.json
+C:\Users\cogdotnet32\source\repos\FlightBooking\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.runtimeconfig.dev.json
+C:\Users\cogdotnet32\source\repos\FlightBooking\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.dll
+C:\Users\cogdotnet32\source\repos\FlightBooking\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.pdb
+C:\Users\cogdotnet32\source\repos\FlightBooking\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.csproj.AssemblyReference.cache
+C:\Users\cogdotnet32\source\repos\FlightBooking\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet32\source\repos\FlightBooking\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.AssemblyInfoInputs.cache
+C:\Users\cogdotnet32\source\repos\FlightBooking\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.AssemblyInfo.cs
+C:\Users\cogdotnet32\source\repos\FlightBooking\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet32\source\repos\FlightBooking\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.RazorAssemblyInfo.cache
+C:\Users\cogdotnet32\source\repos\FlightBooking\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.RazorAssemblyInfo.cs
+C:\Users\cogdotnet32\source\repos\FlightBooking\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.RazorTargetAssemblyInfo.cache
+C:\Users\cogdotnet32\source\repos\FlightBooking\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.dll
+C:\Users\cogdotnet32\source\repos\FlightBooking\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.pdb
+C:\Users\cogdotnet32\source\repos\FlightBooking\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.genruntimeconfig.cache
